@@ -25,7 +25,7 @@ SECRET_KEY = '4$3z1@kmd^qcgi8)a+w4snrugto_p(30ae=05q-%+znt8#7=qu'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ['https://healthinsuranceprediction.herokuapp.com/']
+ALLOWED_HOSTS = ['https://healthinsuranceprediction.herokuapp.com/','.herokuapp.com']
 
 
 # Application definition
