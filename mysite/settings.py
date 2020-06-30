@@ -23,9 +23,9 @@ BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 SECRET_KEY = '4$3z1@kmd^qcgi8)a+w4snrugto_p(30ae=05q-%+znt8#7=qu'
 
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = True
+DEBUG = False
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['https://healthinsuranceprediction.herokuapp.com/','*']
 
 
 # Application definition
